@@ -10,6 +10,9 @@ This project analyzes grocery sales performance across product categories using 
 | ...          | ...           | ...         | ...            |
 | **Total**    | $329.9M       | 6.5M        | 50.81          |
 
+## Live Dashboard (Tableau Public)
+  [Click here to view the interactive dashboard](https://public.tableau.com/views/GrocerySalesDataAnalysis_17529014455190/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Key Insights
 
 - **Confections** drove the highest revenue, largely due to volume.
